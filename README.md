@@ -79,7 +79,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [PokéAPI](https://pokeapi.co/) for the comprehensive Pokémon data
 - [Tailwind CSS](https://tailwindcss.com/) for the styling framework
 - The Pokémon Company for creating these wonderful creatures
+  
+## 🔴 Live Demo
 
+Check out the live application: [Modern Pokédex](https://pokedex-gamma-snowy-53.vercel.app/)
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://pokedex-gamma-snowy-53.vercel.app/)
 ---
 
 Feel free to contribute to this project by creating issues or submitting pull requests!
