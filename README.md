@@ -2,7 +2,7 @@
 
 A sleek, modern Pokémon explorer built with React, Tailwind CSS, and the PokéAPI.
 
-![Image](https://github.com/user-attachments/assets/8a3c6a6a-6d1f-4203-97f6-974d08f10da3)(/api/placeholder/800/400)
+![Image](https://github.com/user-attachments/assets/8a3c6a6a-6d1f-4203-97f6-974d08f10da3)
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ A sleek, modern Pokémon explorer built with React, Tailwind CSS, and the PokéA
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/modern-pokedex-react.git
+   git clone https://github.com/rahulgurav82/modern-pokedex-react.git
    ```
 
 2. Navigate to the project directory
@@ -48,14 +48,14 @@ A sleek, modern Pokémon explorer built with React, Tailwind CSS, and the PokéA
 
 4. Start the development server
    ```
-   npm start
+   npm run dev
    ```
    or
    ```
    yarn start
    ```
 
-5. Open your browser and visit `http://localhost:3000`
+5. Open your browser and visit `http://localhost:5173`
 
 ## 📱 Usage
 
