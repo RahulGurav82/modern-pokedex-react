@@ -2,7 +2,7 @@
 
 A sleek, modern Pokémon explorer built with React, Tailwind CSS, and the PokéAPI.
 
-![Modern Pokédex Screenshot](/api/placeholder/800/400)
+![Image](https://github.com/user-attachments/assets/8a3c6a6a-6d1f-4203-97f6-974d08f10da3)(/api/placeholder/800/400)
 
 ## 🌟 Features
 
